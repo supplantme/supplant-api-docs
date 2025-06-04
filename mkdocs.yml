@@ -1,0 +1,5 @@
+site_name: Supplant API Documentation
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
